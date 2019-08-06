@@ -1,3 +1,12 @@
+/*
+
+2
+4 8
+16 32 64
+128 256 512 1024
+
+
+*/
 class Pattern7 
 {
 	public static void main(String[] args) 
